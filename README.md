@@ -718,5 +718,3 @@ div p {
 
 </body>
 </html>
-
-
